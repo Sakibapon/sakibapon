@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a computer science graduate with a strong interest in Computer Vision & Natural Language Processing.
 <!--
 **Sakibapon/sakibapon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
