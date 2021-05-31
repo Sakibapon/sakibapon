@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 
 
-<br />
+<br/>
+<br/>
 
 Hi, I'm [Sakib Apon](https://www.linkedin.com/in/sakibapon/), computer science graduate with a strong interest in Computer Vision & Natural Language Processing. I'm very passionate and dedicated to my work. I have a strong passion for the creativity and discipline. I take great care in the experience, architecture, and code quality of the things I build. I am honest and determined to ensure 100% quality for work and committed to deadline.
 
