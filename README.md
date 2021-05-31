@@ -58,19 +58,20 @@ If you like what I do, maybe consider buying me a coffee/tea
 
 <a href="https://www.buymeacoffee.com/sakibapon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+<!--  
 🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
+
 🏆  7,837 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 642 tasks so far           
 ⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+
 
 
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="SakibApon" />
 
-
+-->
 
 
