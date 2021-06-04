@@ -37,8 +37,8 @@ I am also a full-stack developer. I can help you to make an interactive website 
 
   <img align="right" alt="GIF" src="https://github.com/Sakibapon/sakibapon/blob/main/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [Sakib Apon](https://www.linkedin.com/in/sakibapon/)
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: [Sakib Apon](https://www.linkedin.com/in/sakibapon/).
 - 📝 [Resume] Under Maintenance. <!--(https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)-->
 
 **Languages and Tools:**  
