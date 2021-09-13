@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey there <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+### Hey there    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 <a href="https://www.facebook.com/sakibapon101/">
   <img align="left" alt="SakibApon's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
@@ -35,7 +35,7 @@ Hi, I'm [Sakib Apon](https://sakibapon.github.io/cv.github.io/), a computer scie
 I am also a full-stack developer. I can help you to make an interactive website for your business. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. I am passionate to learn more and get my skill sets more polished and learn new technology.
 
 
-  <img align="right" alt="GIF" src="https://github.com/Sakibapon/sakibapon/blob/main/code.gif?raw=true" width="500" height="320" />
+ <!--   <img align="right" alt="GIF" src="https://github.com/Sakibapon/sakibapon/blob/main/code.gif?raw=true" width="500" height="320" /> -->
   
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [Sakib Apon](https://www.linkedin.com/in/sakibapon/).
