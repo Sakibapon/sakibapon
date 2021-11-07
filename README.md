@@ -39,8 +39,9 @@ I am also a full-stack developer. I can help you to make an interactive website 
   
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [Sakib Apon](https://www.linkedin.com/in/sakibapon/).
-- 📝 [Resume] Under Maintenance. <!--(https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)-->
-
+<!--  
+- 📝 [Resume] Under Maintenance. (https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+-->
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
