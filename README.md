@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-Hi, I'm [Sakib Apon](https://sakibapon.github.io/cv.github.io/), a computer science graduate with a strong interest in Computer Vision & Natural Language Processing. I'm very passionate and dedicated to my work. I have a strong passion for creativity and discipline. I take great care in the experience, architecture, and code quality of the things I build. I am honest and determined to ensure 100% quality for work and committed to deadline.
-
-I am also a full-stack developer. I can help you to make an interactive website for your business. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. I am passionate to learn more and get my skill sets more polished and learn new technology.
+Hi, I'm [Sakib Apon](https://sakibapon.github.io/cv.github.io/), a computer science graduate with a strong interest in Computer Vision & Natural Language Processing. I'm very passionate and dedicated to my work. I have a strong passion for creativity and discipline. I take great care in the experience, architecture, and code quality of the things I build.
 
 
  <!--   <img align="right" alt="GIF" src="https://github.com/Sakibapon/sakibapon/blob/main/code.gif?raw=true" width="500" height="320" /> -->
