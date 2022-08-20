@@ -52,7 +52,7 @@ Hi, I'm [Sakib Apon](https://sakibapon.github.io/cv.github.io/), a computer scie
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibapon&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 <!--
 If you like what I do, maybe consider buying me a coffee/tea 
 
