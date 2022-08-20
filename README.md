@@ -29,8 +29,6 @@
 	</a> -->
 </p>
 
-<br/>
-
 Computer Science graduate with a strong interest in Computer Vision & Natural Language Processing. I'm very passionate and dedicated to my work. I have a strong passion for creativity and discipline. I take great care in the experience, architecture, and code quality of the things I build.
 
 
