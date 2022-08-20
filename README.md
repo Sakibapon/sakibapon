@@ -6,13 +6,13 @@
 	<!--<a href="https://twitter.com/sakibapon" target="_blank">
 	  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 	</a> -->
-	<a href="https://sakibapon.github.io/">
+	<a href="https://sakibapon.github.io/" target="_blank">
 	  <img src="https://img.shields.io/badge/personal%20Site-000000?style=for-the-badge&logo=personal&logoColor=white" height=25>
 	</a>
-	<a href="https://scholar.google.com/citations?user=Y9KajaYAAAAJ&hl=en&authuser=1">
+	<a href="https://scholar.google.com/citations?user=Y9KajaYAAAAJ&hl=en&authuser=1" target="_blank">
 	  <img src="https://img.shields.io/badge/GOOGLE%20SCHOALAR-A0C3FF?style=for-the-badge&logo=personal&logoColor=blue" height=25>
 	</a>
-	<a href="mailto:sakibapon07@gmail.com">
+	<a href="mailto:sakibapon07@gmail.com" target="_blank">
 	  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 	</a>
 	<a href="https://www.linkedin.com/in/sakibapon/" target="_blank">
