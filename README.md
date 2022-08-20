@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 	<a href="https://www.facebook.com/sakibapon101" target="_blank">
 	  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 	</a>
-	<a href="sakibapon07@gmail.com">
+	<a href="mailto:sakibapon07@gmail.com">
 	  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 	</a>
 </p>
