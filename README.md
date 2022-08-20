@@ -1,6 +1,6 @@
 ## Hey there    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-#### Connect With Me
+### Connect With Me
 
 <p left="center">
 	<!--<a href="https://twitter.com/sakibapon" target="_blank">
@@ -23,13 +23,12 @@
 	</a> 
 	<!--<a href="https://www.facebook.com/sakibapon101" target="_blank">
 	  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
-	</a> -->
+	</a> 
 	<a href="https://github.com/sakibapon/">
     	<img src="https://komarev.com/ghpvc/?username=sakibapon" alt="visitors" />
-	</a>
+	</a> -->
 </p>
 
-<br/>
 <br/>
 
 Computer Science graduate with a strong interest in Computer Vision & Natural Language Processing. I'm very passionate and dedicated to my work. I have a strong passion for creativity and discipline. I take great care in the experience, architecture, and code quality of the things I build.
