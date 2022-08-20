@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 #### Connect With Me
 
 <p left="center">
-	<a href="https://twitter.com/sakibapon">
+	<a href="https://twitter.com/sakibapon" target="_blank">
 	  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 	</a> 
-	<a href="https://www.linkedin.com/in/sakibapon/">
+	<a href="https://www.linkedin.com/in/sakibapon/" target="_blank">
 	  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 	</a> 
-	<a href="https://www.facebook.com/sakibapon101">
+	<a href="https://www.facebook.com/sakibapon101" target="_blank">
 	  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 	</a>
-	<a href="mailto:sakibapon07@gmail.com">
-	  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+	<a href="sakibapon07@gmail.com">
+	  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 	</a>
 </p>
 
