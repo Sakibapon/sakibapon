@@ -22,9 +22,9 @@
 	<a href="https://www.github.com/sakibapon" target="_blank">
 	  <img src="https://img.shields.io/badge/github-F1EFEC?style=for-the-badge&logo=github&logoColor=black" height=25>
 	</a> 
-	<a href="https://www.facebook.com/sakibapon101" target="_blank">
+	<!--<a href="https://www.facebook.com/sakibapon101" target="_blank">
 	  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
-	</a>
+	</a> -->
 	<a href="https://github.com/sakibapon/">
     	<img src="https://komarev.com/ghpvc/?username=sakibapon" alt="visitors" />
 	</a>
@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-Hi, I'm [Sakib Apon](https://sakibapon.github.io/), Computer Science graduate with a strong interest in Computer Vision & Natural Language Processing. I'm very passionate and dedicated to my work. I have a strong passion for creativity and discipline. I take great care in the experience, architecture, and code quality of the things I build.
+Computer Science graduate with a strong interest in Computer Vision & Natural Language Processing. I'm very passionate and dedicated to my work. I have a strong passion for creativity and discipline. I take great care in the experience, architecture, and code quality of the things I build.
 
 
  <!-- <img align="right" alt="GIF" src="https://github.com/Sakibapon/sakibapon/blob/main/code.gif?raw=true" width="500" height="320"/> -->
@@ -52,4 +52,4 @@ Hi, I'm [Sakib Apon](https://sakibapon.github.io/), Computer Science graduate wi
 	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibapon&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibapon&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
