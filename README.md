@@ -9,17 +9,6 @@
 	<a href="https://sakibapon.github.io/" target="_blank">
 	  <img src="https://img.shields.io/badge/personal%20Site-000000?style=for-the-badge&logo=personal&logoColor=white" height=25>
 	</a>
-	<a href="mailto:sakibapon07@gmail.com" target="_blank">
-	  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-	</a>
-	<a href="https://www.linkedin.com/in/sakibapon/" target="_blank">
-	  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-	</a>
-	<a href="https://www.github.com/sakibapon" target="_blank">
-	  <img src="https://img.shields.io/badge/github-F1EFEC?style=for-the-badge&logo=github&logoColor=black" height=25>
-	</a> 
-</p>
-<p left="center">
 	<a href="https://scholar.google.com/citations?user=Y9KajaYAAAAJ&hl=en&authuser=1" target="_blank">
 	  <img src="https://img.shields.io/badge/GOOGLE%20SCHOALAR-A0C3FF?style=for-the-badge&logo=googlescholar&logoColor=blue" height=25>
 	</a>
@@ -29,7 +18,23 @@
     <a href="https://www.researchgate.net/profile/Sakib-Apon" target="_blank">
         <img src="https://img.shields.io/badge/Research%20Gate-00A39E?style=for-the-badge&logo=researchgate&logoColor=white" height=25>
     </a>
+	<a href="mailto:sakibapon07@gmail.com" target="_blank">
+	  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+	</a>
+	<a href="https://www.linkedin.com/in/sakibapon/" target="_blank">
+	  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+	</a>
+	<a href="https://www.github.com/sakibapon" target="_blank">
+	  <img src="https://img.shields.io/badge/github-F1EFEC?style=for-the-badge&logo=github&logoColor=black" height=25>
+	</a> 
+	<!--<a href="https://www.facebook.com/sakibapon101" target="_blank">
+	  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+	</a> 
+	<a href="https://github.com/sakibapon/">
+    	<img src="https://komarev.com/ghpvc/?username=sakibapon" alt="visitors" />
+	</a> -->
 </p>
+
 Computer Science graduate with a strong interest in Computer Vision & Natural Language Processing. I'm very passionate and dedicated to my work. I have a strong passion for creativity and discipline. I take great care in the experience, architecture, and code quality of the things I build.
 
 
