@@ -10,8 +10,14 @@
 	  <img src="https://img.shields.io/badge/personal%20Site-000000?style=for-the-badge&logo=personal&logoColor=white" height=25>
 	</a>
 	<a href="https://scholar.google.com/citations?user=Y9KajaYAAAAJ&hl=en&authuser=1" target="_blank">
-	  <img src="https://img.shields.io/badge/GOOGLE%20SCHOALAR-A0C3FF?style=for-the-badge&logo=personal&logoColor=blue" height=25>
+	  <img src="https://img.shields.io/badge/GOOGLE%20SCHOALAR-A0C3FF?style=for-the-badge&logo=googlescholar&logoColor=blue" height=25>
 	</a>
+	<a href="https://orcid.org/0000-0002-5238-8276" target="_blank">
+        <img src="https://img.shields.io/badge/Orcid-a6ce39?style=for-the-badge&logo=orcid&logoColor=white" height=25>
+    </a>
+    <a href="https://www.researchgate.net/profile/Sakib-Apon" target="_blank">
+        <img src="https://img.shields.io/badge/Research%20Gate-00A39E?style=for-the-badge&logo=researchgate&logoColor=white" height=25>
+    </a>
 	<a href="mailto:sakibapon07@gmail.com" target="_blank">
 	  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 	</a>
