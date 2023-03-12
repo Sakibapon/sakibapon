@@ -35,7 +35,7 @@
 	</a> -->
 </p>
 
-Computer Science graduate with a strong interest in Computer Vision & Natural Language Processing. I'm very passionate and dedicated to my work. I have a strong passion for creativity and discipline. I take great care in the experience, architecture, and code quality of the things I build.
+Computer Science graduate with a strong interest in Edge Computing and Autonomous systems.  <!-- I'm very passionate and dedicated to my work. I have a strong passion for creativity and discipline. I take great care in the experience, architecture, and code quality of the things I build. -->
 
 
  <!-- <img align="right" alt="GIF" src="https://github.com/Sakibapon/sakibapon/blob/main/code.gif?raw=true" width="500" height="320"/> -->
