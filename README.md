@@ -15,6 +15,7 @@
 	<a href="https://orcid.org/0000-0002-5238-8276" target="_blank">
         <img src="https://img.shields.io/badge/Orcid-a6ce39?style=for-the-badge&logo=orcid&logoColor=white" height=25>
     </a>
+	<!--
     <a href="https://www.researchgate.net/profile/Sakib-Apon" target="_blank">
         <img src="https://img.shields.io/badge/Research%20Gate-00A39E?style=for-the-badge&logo=researchgate&logoColor=white" height=25>
     </a>
@@ -27,7 +28,7 @@
 	<a href="https://www.github.com/sakibapon" target="_blank">
 	  <img src="https://img.shields.io/badge/github-F1EFEC?style=for-the-badge&logo=github&logoColor=black" height=25>
 	</a> 
-	<!--<a href="https://www.facebook.com/sakibapon101" target="_blank">
+	<a href="https://www.facebook.com/sakibapon101" target="_blank">
 	  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 	</a> 
 	<a href="https://github.com/sakibapon/">
@@ -44,7 +45,7 @@ Computer Science graduate with a strong interest in Edge Computing and Autonomou
 - 📫 How to reach me: [Sakib Apon](https://www.linkedin.com/in/sakibapon/).
 
 
-**Languages and Tools:**  
+<!--**Languages and Tools:**  
 	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -52,6 +53,6 @@ Computer Science graduate with a strong interest in Edge Computing and Autonomou
 	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibapon&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
